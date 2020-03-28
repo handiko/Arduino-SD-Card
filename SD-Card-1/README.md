@@ -1,5 +1,5 @@
 ## Terminal Output Example
-'''
+```
 Initializing SD card...Wiring is correct and a card is present.
 
 Card type:         SDHC
@@ -18,5 +18,4 @@ SYSTEM~1/     2020-03-28 20:13:24
   INDEXE~1      2020-03-28 20:13:26 76
 DATALOG.TXT   2000-01-01 01:00:00 22490
 TEST.TXT      2000-01-01 01:00:00 18
-
-'''
+```
